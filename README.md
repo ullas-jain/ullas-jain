@@ -1,4 +1,4 @@
-<img align="center" height="300px" src="/src/cover.gif" />
+<img align="center" height="400px" src="/src/cover.gif" />
 
 <h1 align="center">
 	<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
