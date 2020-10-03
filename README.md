@@ -23,47 +23,47 @@
 <a href="https://linkedin.com/in/ullas-jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ullas-jain" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/5785930" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="5785930" height="30" width="40" /></a>
 <a href="https://medium.com/@jainullas1994" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jainullas1994" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/jainullas1994" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="jainullas1994" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/jainullas1994" target="blank" title="Codeforces"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="jainullas1994" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-	<a href="https://kotlinlang.org/" target="_blank">
+	<a href="https://kotlinlang.org/" target="_blank" title="Kotlin">
 		<img src="https://avatars2.githubusercontent.com/u/1446536?s=200&v=4" alt="Kotlin" width="40" height="40"/>
 	</a>
-	<a href="https://developer.android.com" target="_blank">
+	<a href="https://developer.android.com" target="_blank" title="Android">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 	</a>
-    <a href="https://www.java.com" target="_blank">
+    <a href="https://www.java.com" target="_blank" title="Java">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
 	</a>
-        <a href="https://gradle.org/" target="_blank">
+        <a href="https://gradle.org/" target="_blank" title="gradle">
 		<img src="src/gradle.png" alt="gradle" width="40" height="40"/>
 	</a>
 	</a>
-        <a href="https://junit5.org/" target="_blank">
+        <a href="https://junit.org/junit5/" target="_blank" title="Junit5">
 		<img src="src/junit5.png" alt="junit5" width="40" height="40"/>
 	</a>
     </a>
-        <a href="https://about.gitlab.com/" target="_blank">
+        <a href="https://about.gitlab.com/" target="_blank" title="Gitlab">
 		<img src="src/gitlab.png" alt="gitlab" width="40" height="40"/>
 	</a>
-    <a href="https://git-scm.com/" target="_blank">
+    <a href="https://git-scm.com/" target="_blank" title="git">
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 	</a>
-	<a href="https://golang.org" target="_blank">
+	<a href="https://golang.org" target="_blank" title="golang">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/>
 	</a>
-	<a href="https://www.cprogramming.com/" target="_blank">
+	<a href="https://www.cprogramming.com/" target="_blank" title="C">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 	</a>
-	<a href="https://flutter.dev" target="_blank">
+	<a href="https://flutter.dev" target="_blank" title="Flutter">
 		<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
 	</a>
-	<a href="https://www.mysql.com/" target="_blank">
+	<a href="https://www.mysql.com/" target="_blank" title="mysql">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 	</a>
-	<a href="https://www.python.org" target="_blank">
+	<a href="https://www.python.org" target="_blank" title="Python">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 	</a>
 </p>
