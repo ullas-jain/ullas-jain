@@ -1,9 +1,9 @@
-<img align="center" height="400px" src="/src/cover.gif" />
+<img align="center" height="300px" src="/src/cover.gif" />
 
-<h1>
-	<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.
-</h1>
-<h2 align="center">Senior Android developer from India. A Peculiar and curious creature;</h2>
+<h1 align="center">
+	<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+    Hey, nice to see you.
+</h1><h3 align="center">Senior Android developer from India. A Peculiar and curious creature;</h3>
 
 - 🔭 I’m currently working on [devX at gojek](https://www.gojek.io/)
 
