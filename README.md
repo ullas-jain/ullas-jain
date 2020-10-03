@@ -1,3 +1,5 @@
+<img align="center" height="400px" src="/src/cover.gif" />
+
 <h1 align="center">Hi 👋, I'm Ullas Jain</h1>
 <h3 align="center">Senior Android developer from India. A Peculiar and curious creature;</h3>
 
