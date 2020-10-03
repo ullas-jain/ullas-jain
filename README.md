@@ -28,10 +28,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-	<a href="https://developer.android.com" target="_blank">
+	<a href="https://kotlinlang.org/" target="_blank">
 		<img src="https://avatars2.githubusercontent.com/u/1446536?s=200&v=4" alt="Kotlin" width="40" height="40"/>
 	</a>
-	<a href="https://kotlinlang.org/" target="_blank">
+	<a href="https://developer.android.com" target="_blank">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 	</a>
     <a href="https://www.java.com" target="_blank">
@@ -39,6 +39,14 @@
 	</a>
         <a href="https://gradle.org/" target="_blank">
 		<img src="src/gradle.png" alt="gradle" width="40" height="40"/>
+	</a>
+	</a>
+        <a href="https://junit5.org/" target="_blank">
+		<img src="src/junit5.png" alt="junit5" width="40" height="40"/>
+	</a>
+    </a>
+        <a href="https://about.gitlab.com/" target="_blank">
+		<img src="src/gitlab.png" alt="gitlab" width="40" height="40"/>
 	</a>
     <a href="https://git-scm.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
