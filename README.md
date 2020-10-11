@@ -5,17 +5,24 @@
     Hey, nice to see you.
 </h1><h3 align="center">Senior Android developer from India. A Peculiar and curious creature;</h3></p>
 
-- 🔭 I’m currently working on [devX at gojek](https://www.gojek.io/)
+ 🔭 I’m currently working on [devX at gojek](https://www.gojek.io/)
 
-- 🌱 I’m currently learning **flutter and golang**
+ 🌱 I’m currently learning **python and golang**
 
-- 👯 I’m looking to collaborate on **Android**
+ 👯 I’m looking to collaborate on **Android**
 
-- 💬 Ask me about **android**
+ 💬 Ask me about **android**
 
-- 📫 How to reach me **jainullas1994@gmail.com**
+ 📫 How to reach me **jainullas1994@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+ ⚡ Fun fact **I think I am funny**
+
+<p>
+	</a>
+        <a href="src/ullas_jain_resume.pdf" target="_blank" title="Resume">
+		🧐  Please check my Portfolio here
+	</a>
+</p>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
