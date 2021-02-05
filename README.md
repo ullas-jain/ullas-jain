@@ -39,10 +39,10 @@
 		<img src="https://avatars2.githubusercontent.com/u/1446536?s=200&v=4" alt="Kotlin" width="40" height="40"/>
 	</a>
 	<a href="https://developer.android.com" target="_blank" title="Android">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+		<img src="src/android.png" alt="gradle" width="40" height="40"/>
 	</a>
     <a href="https://www.java.com" target="_blank" title="Java">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+		<img src="src/java.png" alt="gradle" width="40" height="40"/>
 	</a>
         <a href="https://gradle.org/" target="_blank" title="gradle">
 		<img src="src/gradle.png" alt="gradle" width="40" height="40"/>
@@ -59,19 +59,16 @@
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 	</a>
 	<a href="https://golang.org" target="_blank" title="golang">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-	</a>
-	<a href="https://www.cprogramming.com/" target="_blank" title="C">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+		<img src="src/golang.png" alt="gradle" width="40" height="40"/>
 	</a>
 	<a href="https://flutter.dev" target="_blank" title="Flutter">
 		<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
 	</a>
 	<a href="https://www.mysql.com/" target="_blank" title="mysql">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+		<img src="src/sql.png" alt="gradle" width="40" height="40"/>
 	</a>
 	<a href="https://www.python.org" target="_blank" title="Python">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+		<img src="src/python.png" alt="gradle" width="40" height="40"/>
 	</a>
 </p>
 
