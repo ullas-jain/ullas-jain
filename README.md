@@ -13,6 +13,7 @@
 
  💬 Ask me about **android**
 
+<!---
  📫 How to reach me **jainullas1994@gmail.com**
 
  ⚡ Fun fact **I think I am funny**
@@ -23,6 +24,7 @@
 		🧐  Please check my Portfolio here
 	</a>
 </p>
+-->
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
