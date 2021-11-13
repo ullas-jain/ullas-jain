@@ -3,9 +3,9 @@
 <p><h1 align="center">
 	<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
     Hey, nice to see you.
-</h1><h3 align="center">Senior Android developer from India. A Peculiar and curious creature;</h3></p>
+</h1><h3 align="center">Senior Software Engineer from India. A Peculiar and curious creature;</h3></p>
 
- 🔭 I’m currently working on [devX at gojek](https://www.gojek.io/)
+ 🔭 I’m currently working at **Twitter**
 
  🌱 I’m currently learning **python and golang**
 
