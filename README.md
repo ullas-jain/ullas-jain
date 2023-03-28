@@ -5,9 +5,9 @@
     Hey, nice to see you.
 </h1><h3 align="center">Senior Software Engineer from India. A Peculiar and curious creature;</h3></p>
 
- 🔭 I’m currently working at **Twitter**
+ 🔭 I’m currently working at **Deliveroo**
 
- 🌱 I’m currently learning **python and golang**
+ 🌱 I’m currently learning **Swift and iOS development**
 
  👯 I’m looking to collaborate on **Android**
 
